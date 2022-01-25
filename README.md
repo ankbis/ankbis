@@ -1,6 +1,6 @@
-<p align="center"> <img src="" alt="ankbis" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankbis" alt="ankbis" /> </p>
 
-[<img src="https://github.com/ankbis/ankbis/blob/master/ankbis_github.png" border-radius="5px">](https://www.linkedin.com/in/ankushbisht/)
+[<img src="https://github.com/ankbis/ankbis/blob/main/ankbis_github.png" border-radius="5px">](https://www.linkedin.com/in/ankushbisht/)
 
 ## <p align="center">Hey there, I'm [Ankush Bisht](https://www.linkedin.com/in/ankushbisht/) ☀️ 
 <p> 
