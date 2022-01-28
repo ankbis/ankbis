@@ -8,7 +8,6 @@
 - :man: Pronouns: He,Him
 - :computer: Engineer at Amazon Alexa
 - :mortar_board: B-Tech(CSE) from [SMVD University](https://smvdu.ac.in/).
-- 🔭 Continously learning new technologies.
 - 🌱 I’m currently learning Python, Machine Learning and improving my design skills.
 - 👯 I’m open for collaboration on <b>Data Science or Machine Learning</b> projects.
 - ⚡ Fun fact: I love playing cricket, cooking and traveling.
