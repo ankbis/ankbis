@@ -15,11 +15,10 @@
 <p>I talk about Software Design, Clean Code, CI/CD, Test Planning/Strategy :thinking: , Java :coffee: , Automation :robot: and Fitness :runner: </p>
 
 
-## 🏆 2022 Goals
-- Write E-Books which help Devleopers, QAs and SDETs.
+## 🏆 2023 Goals
 - Contribute to Open-Source.
 - Be physically and mentally fit.
-- Design complex projects often! 👨🏻‍💻
+- Design complex projects in a simpler way! 👨🏻‍💻
 
 
 ## 🔥 Streak stats
