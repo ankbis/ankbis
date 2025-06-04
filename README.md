@@ -15,9 +15,7 @@
 <p>I talk about Software Design, Clean Code, CI/CD, Test Planning/Strategy :thinking: , Java :coffee: , Automation :robot: and Fitness :runner: </p>
 
 
-## 🏆 2023 Goals
-- Contribute to Open-Source.
-- Be physically and mentally fit.
+## 🏆 Goals
 - Design complex projects in a simpler way! 👨🏻‍💻
 
 
