@@ -13,7 +13,7 @@
 - 👯 Open to collaboration on **Cloud, AI/ML, and Automation** projects.
 - ⚡ Fun fact: I love playing cricket, cooking, swimming, working out, and traveling.
 
-<p>I talk about Software Design, Clean Code, CI/CD, Test Planning/Strategy, Java ☕, Automation 🤖, and Fitness 🏃‍♂️</p>
+<p>I talk about Software Design, Clean Code, AI/ML, CI/CD, Automation 🤖, and Fitness 🏃‍♂️</p>
 
 
 ## 🔥 Streak stats
