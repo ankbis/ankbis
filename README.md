@@ -1,22 +1,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankbis" alt="ankbis" /> </p>
 
-[<img src="https://github.com/ankbis/ankbis/blob/main/ankbis_github.png" border-radius="5px">](https://www.linkedin.com/in/ankushbisht/)
+<a href="https://www.linkedin.com/in/ankushbisht/">
+  <img src="https://github.com/ankbis/ankbis/blob/main/ankbis_github.png" style="border-radius:5px;" />
+</a>
 
-## <p align="center">Hey there, I'm [Ankush Bisht](https://www.linkedin.com/in/ankushbisht/) ☀️ 
-<p> 
+## <p align="center">Hey there, I'm [Ankush Bisht](https://www.linkedin.com/in/ankushbisht/) ☀️ </p>
 
-- :man: Pronouns: He,Him
-- :computer: Software Development Engineer at Amazon Web Services
-- :mortar_board: B-Tech(CSE) from [SMVD University](https://smvdu.ac.in/).
-- 🌱 I’m currently designing and developing solutions to improve developer productivity.
-- 👯 I’m open for collaboration on <b>Cloud, Automation or Machine Learning</b> projects.
-- ⚡ Fun fact: I love playing cricket, cooking, swimming, working out and traveling.
+- Pronouns: he/him
+- :computer: **Freelance Software Development Engineer** | 8+ Years at **Amazon & Microsoft** | Cloud & AI Specialist
+- :mortar_board: B-Tech (CSE) from [SMVD University](https://smvdu.ac.in/)
+- 🌱 Currently building AI solutions to boost productivity for property managers of large-scale properties.
+- 👯 Open to collaboration on **Cloud, AI/ML, and Automation** projects.
+- ⚡ Fun fact: I love playing cricket, cooking, swimming, working out, and traveling.
 
-<p>I talk about Software Design, Clean Code, CI/CD, Test Planning/Strategy :thinking: , Java :coffee: , Automation :robot: and Fitness :runner: </p>
-
-
-## 🏆 Goals
-- Design complex projects in a simpler way! 👨🏻‍💻
+<p>I talk about Software Design, Clean Code, CI/CD, Test Planning/Strategy, Java ☕, Automation 🤖, and Fitness 🏃‍♂️</p>
 
 
 ## 🔥 Streak stats
