@@ -9,8 +9,8 @@
 - Pronouns: he/him
 - :computer: **Freelance Software Development Engineer** | 8+ Years at **Amazon & Microsoft** | Cloud & AI Specialist
 - :mortar_board: B-Tech (CSE) from [SMVD University](https://smvdu.ac.in/)
-- 🌱 Currently building AI solutions to boost productivity for property managers of large-scale properties.
-- 👯 Open to collaboration on **Cloud, AI/ML, and Automation** projects.
+- 🌱 Currently building Model Context Protocol (MCP) solutions powered by AI agents to streamline operations and boost productivity for property managers of large-scale properties.
+- 👯 Open to collaborating on innovative projects in Cloud, Artificial Intelligence/Machine Learning, and Automation.
 - ⚡ Fun fact: I love playing cricket, cooking, swimming, working out, and traveling.
 
 <p>I talk about Software Design, Clean Code, AI/ML, CI/CD, Automation 🤖, and Fitness 🏃‍♂️</p>
